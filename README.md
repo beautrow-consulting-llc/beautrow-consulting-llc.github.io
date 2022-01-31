@@ -1,26 +1,10 @@
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "isAlive": true,
-  "age": 27,
-  "address": {
-    "streetAddress": "21 2nd Street",
-    "city": "New York",
-    "state": "NY",
-    "postalCode": "10021-3100"
-  },
-  "phoneNumbers": [
-    {
-      "type": "home",
-      "number": "212 555-1234"
-    },
-    {
-      "type": "office",
-      "number": "646 555-4567"
-    }
-  ],
-  "children": [],
-  "spouse": null
+  "Type": "Vital Signs",
+  "Make": "GE",
+  "Model": "Dash 4000",
+  "TestProcedure": "2000966-24d",
+  "MobilizeEquipment": "ST\u002BSC\u002BOX",
+  "Status": "In Use"
 }
 ```
